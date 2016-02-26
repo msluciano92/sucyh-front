@@ -1,6 +1,6 @@
 'use strict';
 
-var cards = angular.module('cardsApp', [
+var cards = angular.module('sucyhApp', [
     'ngResource',
     'ngRoute',
     'ui.bootstrap',
